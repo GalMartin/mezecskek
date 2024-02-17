@@ -1,0 +1,63 @@
+body{
+    background-image: url(IMG/szar.jpg); 
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+
+
+h1 {
+    color: crimson; 
+}
+
+h3 {
+    color: whitesmoke;
+}
+
+
+
+
+.green-text {
+
+    color: green;
+
+}
+
+
+.gray-text {
+
+    color: gray;
+}
+
+.red-text {
+
+   color: red;
+}
+
+.yellow-text {
+
+    color: yellow;
+}
+
+.pink-text {
+
+    color: pink;
+}
+
+
+
+footer {
+    background-color: blue;
+    color: black;
+    padding: 30px;
+    text-align: center;
+    width: 0px;
+ }
+
+
+
